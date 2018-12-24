@@ -1,0 +1,21 @@
+langkah-langkah :
+
+buat database
+jalankan server
+create user
+get all user
+get one user
+promote user
+delete user
+login
+decorated
+created todo
+get all todo
+get one todo
+complete todo
+delete todo
+
+
+note :
+positional, keywords argument
+decorated(*args, **kwargs)
